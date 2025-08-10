@@ -1,6 +1,7 @@
 #  Créez et utilisez une base de données immobilière avec SQL
 <h2>Description</h2>
 
+Créer, modifier et documenter la base de données immobilière en intégrant des données régionales et démographiques, assurer sa conformité RGPD, et préparer une présentation pour valider ces changements.
 
 <br />
 
